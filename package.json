@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mustache": "0.7.2",
+    "mustache": "4.2.0",
     "yarn": "1.22.12"
   }
 }
