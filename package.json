@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mustache": "2.2.1"
+    "mustache": "0.7.2"
   }
 }
